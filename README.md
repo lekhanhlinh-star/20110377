@@ -24,7 +24,7 @@ This API provides endpoints for managing and retrieving information about member
 
 ### 4. Get Member Name by ID or All Member Names
 
-- **Endpoint:** `http://localhost:5000/Message/:id`
+- **Endpoint:** `http://localhost:5000/message/:id`
 - **Method:** GET
 - **Description:** Retrieve the name of a specific member in MyGroup by providing their ID as a parameter. If no ID is provided, retrieve the names of all members in MyGroup.
 
