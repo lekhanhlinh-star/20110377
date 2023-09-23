@@ -1,0 +1,14 @@
+<!-- views/message.ejs -->
+
+<html>
+<head>
+    <title>Message</title>
+</head>
+<body>
+    <ul>
+        <% myGroup.forEach(function(member) { %>
+            <li><%= member.name %></li>
+        <% }); %>
+    </ul>
+</body>
+</html>
