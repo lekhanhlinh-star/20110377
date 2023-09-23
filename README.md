@@ -31,6 +31,7 @@ This API provides endpoints for managing and retrieving information about member
 ## Usage
 
 ```console
+git clone https://github.com/lekhanhlinh-star/20110377.git
 cd 20110377
 npm install
 npm run server
